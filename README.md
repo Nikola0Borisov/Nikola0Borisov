@@ -43,14 +43,6 @@ I'm not *always* swinging between buildings, so feel free to drop a message:
 
 ---
 
-## 🕸️ Fun Facts
-
-- 🥊 I box — so my code isn't the only thing that hits hard
-- 🐧 I run Arch on a second laptop for experiments. My main HP runs Windows 10 (and occasionally a "no boot device found" error, just for fun)
-- 🕷️ I genuinely enjoy open-source. It's like science — free knowledge for everyone
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=435&lines=Friendly+Neighborhood+Developer" alt="Typing SVG" />
 </p>
