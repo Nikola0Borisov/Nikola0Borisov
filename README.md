@@ -15,6 +15,7 @@ Just your friendly neighborhood developer.
 - 💻 Main machine runs Windows 10. Second laptop runs Arch Linux for experiments (yes, I use Arch, no I won't shut up about it)
 - 🕸️ I build things, break things, then build them again — mostly in C#
 - ⚡ I dabble in embedded systems and electronics — C++ and actual physical circuits, not just code on a screen
+- 📷 I also do photography and graphic design — trained at DIO Academy. No, I do not sell my photos to the Daily Bugle. (Please stop asking, Mr. Jameson.)
 ---
 
 ## 🔧 Tools I use
