@@ -1,31 +1,60 @@
-# 👋 Hey, I’m Nikola Borisov!
+# Hey there! I'm Nikola 🕷️
 
-🎓 I'm a high school student from Bulgaria, currently in 10th grade  
-💻 I’m learning programming through IT Kariera (expected to finish in 2027)  
-🌱 Right now I’m coding mostly in **C#** and using **Linux Mint**  
-🌍 My English level is B1, but I’m working toward a **C1 certification**  
-🚀 My goal: Become a software engineer 
+> *"With great power comes great responsibility."*
+> — Some guy, probably my uncle
 
 ---
 
-### 💡 Some of my mini projects:
-- 🧮 **Student Grading System** – Console app in C#
-- ⚗️ **Chemistry Tool** – Element and formula calculator
--  ✅ **ToDo App** – A task manager built with C#
-- 🧮 **Console Calculator** – Basic calculator with math operations
-- 🔧 More projects coming soon...
+## 🧪 Who am I?
+
+Just your friendly neighborhood developer.
+
+- 📍 Based in Vidin, Bulgaria
+- 🎓 High school student, future CS student at AUBG
+- 🌍 I speak Bulgarian, English (C2 level, working on it)
+- 💻 Main machine runs Windows 10. Second laptop runs Arch Linux for experiments (yes, I use Arch, no I won't shut up about it)
+- 🕸️ I build things, break things, then build them again — mostly in C#
+- ⚡ I dabble in embedded systems and electronics — C++ and actual physical circuits, not just code on a screen
+---
+
+## 🔧 Tools I use
+
+| What | Why |
+|------|-----|
+| **C# / .NET** | My main weapon of choice |
+| **MySQL + EF Core** | For storing all my secrets (just data, I promise) |
+| **C++ & Electronics** | For when I want to talk to actual hardware |
+| **Bash** | A little. Enough to feel dangerous. |
+| **Git & GitHub** | So I don't lose my work again |
+| **Windows 10** | Daily driver on the main machine |
+| **Arch Linux** | On a second laptop, for science |
 
 ---
 
-### 🛠️ Tech I’m into:
-- Languages: `C#`, `HTML`, a bit of `Bash`
-- Tools: `Linux Mint`, `VS Code`, `Git`
+## 📡 How to reach me
+
+I'm not *always* swinging between buildings, so feel free to drop a message:
+
+- 📧 Email: `nikolakokoborisov09@gmail.com`
+- 💬 LinkedIn: `www.linkedin.com/in/nikola-borisov-a14361361`
+- 🐙 You're already here — just open an issue or something
+- 
+> *(I check these more often than I check my homework. Probably.)*
 
 ---
 
-### 📫 Reach me:
-- LinkedIn: www.linkedin.com/in/nikola-borisov-a14361361
-- Email: nikolakokoborisov09@gmail.com
+## 🕸️ Fun Facts
+
+- 🥊 I box — so my code isn't the only thing that hits hard
+- 🐧 I run Arch on a second laptop for experiments. My main HP runs Windows 10 (and occasionally a "no boot device found" error, just for fun)
+- 🕷️ I genuinely enjoy open-source. It's like science — free knowledge for everyone
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E63946&center=true&vCenter=true&width=435&lines=Friendly+Neighborhood+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <i>Not Spider-Man. Definitely not Spider-Man.</i>
+</p>
