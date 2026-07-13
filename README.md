@@ -36,7 +36,7 @@ Just your friendly neighborhood developer.
 
 I'm not *always* swinging between buildings, so feel free to drop a message:
 
-- 📧 Email: `nikolakokoborisov09@gmail.com`
+- 📧 Email: `nikola.b.borisov.08@gmail.com`
 - 💬 LinkedIn: `www.linkedin.com/in/nikola-borisov-a14361361`
 - 🐙 You're already here — just open an issue or something
 > *(I check these more often than I check my homework. Probably.)*
